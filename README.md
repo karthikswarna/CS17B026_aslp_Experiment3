@@ -12,11 +12,11 @@
    integer number.
 
 3. Doing without:
-    a. Write a program to multiply two numbersaandbusing only the shift instructions. Assume
+    - Write a program to multiply two numbersaandbusing only the shift instructions. Assume
        that one of the number is either 2, 4, or 8. Write two version program where in the first one
        you use the register addressing mode (i.e R type instruction format) and in the second one
        you use immediate addressing mode (i.e I type instruction format).
-    b. Write a program to perform division operation onaas dividend andbas divisor using shift in-
+    - Write a program to perform division operation onaas dividend andbas divisor using shift in-
        structions assuming that the dividend is either 2, 4, or 8. Check (manually) for what value ofa
        you obtain the exact division results.
 
